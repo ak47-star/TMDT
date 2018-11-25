@@ -1,0 +1,316 @@
+.wraper{
+	min-width:1024px;
+	max-width: 1200px;
+	height: 55px;
+	margin: auto;
+	background-color: blue;
+	width:100%;
+	position: relative;
+	display: block;
+}
+
+a{
+	text-decoration: none;
+}
+
+.logo{
+
+}
+
+.toinput{
+	float: left;
+	width: 162px;
+	margin-left: 8px;
+	padding-top: 3px;
+	border: 0;
+	position: relative;
+	height: 30px;
+	font-size: 13px;
+}
+
+#search-item{
+	float: left;
+	width: 230px;
+	height: 35px;
+	margin: 10px 10px 0 10px;
+	position: relative;
+	padding:0;
+}
+
+.icon-search{
+	box-sizing: border-box;
+	float: left;
+	width: 20px;
+	height: 26px;
+	display: block;
+	background-position: -160px 0;
+}
+
+.icon-logo{
+	background-image:
+}
+
+nav {
+	display: table-cell;
+    height: 44px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+nav a.moblie{
+
+}
+
+.left-search{
+	float: left;
+	overflow: hidden;
+	width: 67.5%;
+	background-image: initial;
+	background-position: initial;
+	background-size: initial;
+	background-repeat: initial;
+	blackground-attachment:initial;
+	background-clip: initial;
+	background-color: #EBECF4;
+
+}
+
+*{
+	margin: 0;padding: 0;
+}
+
+
+.list-search{
+	display: block;
+	max-width: 1200px;
+	overflow: hidden;
+	margin: 5px auto 0;
+	width: 100%;
+}
+
+ul{
+	list-style: none;
+}
+
+.list-search li{
+	background-color: white;
+	float: left;
+	position: relative;
+	width: 22.5%;
+	min-height: 285px;
+	margin: 0 0 2% 2%;
+	cursor: pointer;
+}
+
+
+
+.list-search li .tagicon{
+	position: absolute;
+	margin: 0;
+	color: white;
+	border-radius: 3px;
+	background-color:#ff6a00;
+
+}
+
+section{
+	max-width: 1200px;
+	min-width: 980px;
+	width: 100%;
+	margin: 65px auto 0;
+	overflow: hidden;
+}
+
+.list-search li label{
+  font-size: 12px;
+  left: 10px;
+  top:120px;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+.list-search li a{
+   display: block;
+   height: 100%;
+   overflow: hidden;
+   cursor: pointer;
+}
+
+img{
+	vertical-align: middle;
+	border: 0;
+
+}
+
+.list-search li img{
+	display: block;
+	width: auto;
+	height: 130px;
+	margin: 20px auto;
+}
+
+#search-item{
+	width: 230px;
+	height: 44px;
+	float: left;
+	margin:10px 10px 0 10px;
+	position: relative;
+
+}
+
+.icon-btn{
+	background-position: -160px 0;
+	width: 20px;
+	height: 20px;
+	background-color: white;
+	margin:1px auto;
+}
+
+.btnbutton{
+	display: block;
+	float: right;
+	height: 34px;
+	width: 60px;
+}
+
+.toinput{
+	float: left;
+	width: 180px;
+	height: 34px;
+	font-size: 13px;
+	position: relative;
+}
+
+
+.list-search li .bginfo{
+	position: absolute;
+	display: block;
+	line-height: 16px;
+	overflow: hidden;
+	padding: 2% 0;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 9;
+    margin: 0;
+	font-size: 12px;
+	overflow: hidden;
+	background-color: white;
+	opacity: 0;
+}
+
+.cat42 :hover.bginfo{
+	opacity: 1;
+}
+
+.list-search li strong{
+	margin-left: 5px;
+	color: red;
+}
+
+.list-search li h3{
+	font:arial;
+	font-size: 20px;
+	margin-left: 5px;
+	color: black;
+}
+
+.list-search  li .bginfo span{
+	display: block;
+	color:#666;
+	padding: 2px 6px;
+	text-decoration: none;
+	margin: 0 0 0 5px;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+
+.left-search .viewmore{
+  border: 1px solid #288ad6;
+  display: block;
+  padding: 12px 0;
+  width: 375px;
+  margin: 20px auto;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+
+.left-search a{
+	text-decoration: none;
+}
+
+.left-search .viewmore span{
+	width: 0;
+	height: 0;
+	border-top: 6px solid #288ad6;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	display:inline-flex;
+	margin-left: 5px;
+}
+
+.aside-left{
+ float: right;
+ display: block;
+ overflow: hidden;
+ width: 30%;
+}
+
+.list-right li{
+  display: block;
+  overflow: hidden;
+  padding: 5px;
+}
+
+h3{
+	display: block;
+     margin: 0;
+     padding: 0;
+     font-weight: 600px;
+     font-size: 16px;
+}
+
+.list-right li img{
+	float: left;
+	width: auto;
+	height: 50px;
+	margin-right: 20px;
+}
+
+.list-right li strong{
+	color: red;
+
+}
+
+.box_right{
+ border-bottom: 1px solid black;
+ margin-top: 20px;
+}
+
+nav a{
+	display: table-cell;
+	position: relative;
+	color: white;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+nav a .moblie{
+	padding-top: 20px;
+    text-decoration: none;
+}
+

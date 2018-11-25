@@ -1,0 +1,10 @@
+header{
+	display: block;
+	max-width: 1366px;
+	min-width: 800px;
+	margin: auto;
+}
+
+.nk-input{
+	float: left;
+}
